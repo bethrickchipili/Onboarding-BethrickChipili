@@ -16,6 +16,7 @@ Wanted Skills:
 2. Autosar development. 
 3. Database management.
 4. Vehicle infotainment systems.
+5. Advanced Driver Assistant Systems.(ADAS)
 
 In 5 Years Vision : Still learning and evolving while delivering reliable software and systems.
 
