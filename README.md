@@ -6,10 +6,11 @@ Sch & Year of Study : SICT, 2nd Year.
 
 Program : Computer Science.
 
-Description: I'm eager to lesrn more about how to create functional, efficient snd reliable software.
+Description: I'm eager to learn more about how to create functional, efficient and reliable software.
 
 ✓ B. Future Plans in Tech.
 - Become a Software developer.
+- Mastering the software technologies used in a vehicle.
 
 Wanted Skills:
 1. Backend development.
